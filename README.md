@@ -6,6 +6,6 @@
     Skills:
 </pre>
 <br><br>
-<img src="https:github.com/amr-khaled27/amr-khaled27/assets/github.gif" height="40" />
+![me](https://github.com/amr-khaled27/amr-khaled27/assets/github.gif)
 <br><br><br>
 </div>
