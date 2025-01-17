@@ -5,5 +5,5 @@
     
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+![212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b](https://github.com/user-attachments/assets/df0a621b-8317-4eb3-a974-548a39d502a9)
 <br><br><br>
