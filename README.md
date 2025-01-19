@@ -4,6 +4,6 @@
 </div>
 
 <div align="center">
-  ![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/user-attachments/assets/f6eabd05-547d-4208-b6bb-007d9889606c)
+  ![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/user-attachments/assets/8b1257c0-fb64-41b7-8978-720fe3a13781)
 
 </div>
