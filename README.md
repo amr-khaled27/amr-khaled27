@@ -3,7 +3,7 @@
 <br>
 </div>
 
-<div align="center">
+<div align="center" width="200px">
   
 ![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/user-attachments/assets/5a893141-5288-4327-af27-7c5f7a906f66)
 </div>
