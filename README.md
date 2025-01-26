@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hey there...<br>I'm Amr Khaled
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
